@@ -61,6 +61,10 @@ education:
 
 # TODO: replace the placeholder logos with a KAIST logo
 experience:
+- name: AI² Lab, KAIST
+  logo: /assets/images/empty_300x200.png
+  position: Lab Leader
+  date: 2023 - 2024
 - name: KAIST
   logo: /assets/images/empty_300x200.png
   position: >-
@@ -73,6 +77,18 @@ experience:
     CS632 Embedded OS <br/>
     Head Teaching Assistant
   date: Fall 2023, 2024
+- name: KAIST
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    CS632 Embedded OS <br/>
+    Guest Lecture: AI Accelerators - FPGA
+  date: Fall 2024
+- name: KAIST
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    CS632 Embedded OS <br/>
+    Guest Lecture: Embedded AI Accelerators - GPU, NPU
+  date: Fall 2025
 
 # awards:  # TODO: add awards if any
 # - name: Award Name
