@@ -76,6 +76,12 @@ experience:
     CS632 Embedded OS <br/>
     Head Teaching Assistant
   date: Fall 2023, 2024
+- name: Inha University
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    CSE2105 Computer-Based Linear Algebra <br/>
+    Teaching Assistant
+  date: 2022
 
 # Shown on the Talks page (talks.html), grouped by `year`, newest first
 talks:
