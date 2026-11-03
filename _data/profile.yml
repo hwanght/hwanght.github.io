@@ -77,18 +77,33 @@ experience:
     CS632 Embedded OS <br/>
     Head Teaching Assistant
   date: Fall 2023, 2024
-- name: KAIST
-  logo: /assets/images/empty_300x200.png
-  position: >-
-    CS632 Embedded OS <br/>
-    Guest Lecture: AI Accelerators - FPGA
-  date: Fall 2024
-- name: KAIST
-  logo: /assets/images/empty_300x200.png
-  position: >-
-    CS632 Embedded OS <br/>
-    Guest Lecture: Embedded AI Accelerators - GPU, NPU
+
+# Shown on the Talks page (talks.html), grouped by `year`, newest first
+talks:
+- title: "Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models"
+  event: "Poster, International Conference on Machine Learning (ICML)"
+  date: 2026
+  year: 2026
+- title: "국방 AI 온디바이스 구현을 위한 AI 가속기 구현 기술"
+  event: "Poster, Korea Computer Congress (KCC)"
+  date: 2025
+  year: 2025
+- title: "Embedded AI Accelerators - GPU, NPU"
+  event: "Guest Lecture, CS632 Embedded Operating Systems, KAIST"
   date: Fall 2025
+  year: 2025
+- title: "AI Accelerators - FPGA"
+  event: "Guest Lecture, CS632 Embedded Operating Systems, KAIST"
+  date: Fall 2024
+  year: 2024
+# - title: "Talk title"  # TODO: workshop talks (e.g., Auto-ID Labs Asia Workshop)
+#   event: "Event name"
+#   date: Month Year
+#   year: 2024
+# - title: "Poster title"  # TODO: poster presentations
+#   event: "Poster, Event name"
+#   date: Month Year
+#   year: 2026
 
 # awards:  # TODO: add awards if any
 # - name: Award Name
