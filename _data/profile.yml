@@ -18,15 +18,15 @@ linkedin: hyeontaek-hwang-90b35226b
 orcid: 0000-0003-0898-5548
 
 short_bio_text_justify: false
-# TODO: replace with your own bio. The text below only restates facts from Google Scholar, OpenReview, and the AI² Lab page.
-# TODO: research interests below follow Google Scholar; OpenReview lists "MLLM, Computer Vision, Deep learning" instead.
 short_bio: >-
   <p>
     I am a Ph.D. student in the School of Computing at KAIST and a member of the
     <a href="https://www.ai2lab.kaist.ac.kr/" target="_blank">AI² Lab</a>, advised by Prof. Daeyoung Kim.
+    My research focuses on understanding how learning takes place inside a model
+    and on improving performance by making the most of the model's parameters.
   </p>
   <p>
-    Research interests: deep learning, sparse learning, long-tailed learning, and imbalanced learning.
+    Research interests: deep learning, computer vision, multimodal large language models (MLLMs), sparse learning, long-tailed learning, and imbalanced learning.
   </p>
   <p>
     <a href="https://dblp.org/pid/320/2256.html" target="_blank">DBLP</a> ·

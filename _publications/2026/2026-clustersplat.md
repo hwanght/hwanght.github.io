@@ -1,6 +1,6 @@
 ---
-title:          "ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting"
-date:           2026-10-27 00:02:00 +0900
+title:          "ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting (NeurIPS 2026 Spotlight)"
+date:           2026-09-24 00:01:00 +0900  # NeurIPS 2026 decision date; sort key
 selected:       true
 pub:            "Conference on Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2026"
