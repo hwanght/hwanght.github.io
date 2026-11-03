@@ -6,6 +6,7 @@ pub:            "IEEE/CVF Winter Conference on Applications of Computer Vision (
 pub_date:       "2027"
 # abstract: >-
 #   TODO: one or two sentence TL;DR
+cover:          /assets/images/covers/full-collapse.png
 authors:
 - Hyeontaek Hwang
 - Cheonghwan Hur

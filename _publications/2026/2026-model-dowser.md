@@ -6,6 +6,7 @@ pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2026"
 # abstract: >-
 #   TODO: one or two sentence TL;DR
+cover:          /assets/images/covers/model-dowser.png
 authors:
 - Hyeontaek Hwang
 - Nguyen Dinh Son
