@@ -30,6 +30,7 @@ short_bio: >-
   </p>
   <p>
     <a href="https://dblp.org/pid/320/2256.html" target="_blank">DBLP</a> ·
+    <a href="https://arxiv.org/a/hwang_h_2.html" target="_blank">arXiv</a> ·
     <a href="https://openreview.net/profile?id=~Hyeontaek_Hwang2" target="_blank">OpenReview</a> ·
     <a href="https://www.semanticscholar.org/author/Hyeontaek-Hwang/2037781514" target="_blank">Semantic Scholar</a>
   </p>
@@ -44,13 +45,15 @@ education:
   logo: /assets/images/empty_300x200.png
   position: >-
     School of Computing <br/>
-    Ph.D. Student
-  date: Mar. 2023 - present
+    Ph.D. Student <br/>
+    Advisor: Prof. Daeyoung Kim
+  date: Feb. 2023 - present
 - name: Inha University
   logo: /assets/images/empty_300x200.png
   position: >-
     Computer Science and Engineering <br/>
-    M.S.
+    M.S. <br/>
+    Advisor: Prof. Sanggil Kang
   date: 2021 - 2023
 - name: Inha University
   logo: /assets/images/empty_300x200.png
@@ -61,10 +64,6 @@ education:
 
 # TODO: replace the placeholder logos with a KAIST logo
 experience:
-- name: AI² Lab, KAIST
-  logo: /assets/images/empty_300x200.png
-  position: Lab Leader
-  date: 2023 - 2024
 - name: KAIST
   logo: /assets/images/empty_300x200.png
   position: >-
