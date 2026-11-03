@@ -1,58 +1,79 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Hyeontaek Hwang"
+secondary_name: "황현택"  # TODO: Korean name to show next to the English name (e.g., 황현택), or leave empty
+navbar_name: "Hyeontaek Hwang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Student
+- name: School of Computing, KAIST
+  # logo: /assets/images/badges/kaist.png  # TODO: optional affiliation logo
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+email: "hwanght@kaist.ac.kr"  # official email (shown on the site)
+personal_email: "hwanght05@gmail.com"  # personal email (optional, shown below `email`)
+# cv_link: link-to-your-cv-file  # TODO: CV PDF path or URL
+gscholar: YGzCNO0AAAAJ
+github: hwanght  # TODO
+# twitter: your_twitter_id  # TODO: do not include the '@' symbol
+linkedin: hyeontaek-hwang-90b35226b
+orcid: 0000-0003-0898-5548
 
 short_bio_text_justify: false
+# TODO: replace with your own bio. The text below only restates facts from Google Scholar, OpenReview, and the AI² Lab page.
+# TODO: research interests below follow Google Scholar; OpenReview lists "MLLM, Computer Vision, Deep learning" instead.
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Ph.D. student in the School of Computing at KAIST and a member of the
+    <a href="https://www.ai2lab.kaist.ac.kr/" target="_blank">AI² Lab</a>, advised by Prof. Daeyoung Kim.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Research interests: deep learning, sparse learning, long-tailed learning, and imbalanced learning.
+  </p>
+  <p>
+    <a href="https://dblp.org/pid/320/2256.html" target="_blank">DBLP</a> ·
+    <a href="https://openreview.net/profile?id=~Hyeontaek_Hwang2" target="_blank">OpenReview</a> ·
+    <a href="https://www.semanticscholar.org/author/Hyeontaek-Hwang/2037781514" target="_blank">Semantic Scholar</a>
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/portrait.jpg  # TODO: replace this template photo with your own
+# portrait_caption: >-
+#   Optional caption.
 
+# TODO: the template requires a logo per entry; replace the placeholder with KAIST / Inha University logos
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+- name: KAIST
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    School of Computing <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Mar. 2023 - present
+- name: Inha University
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    Computer Science and Engineering <br/>
+    M.S.
+  date: 2021 - 2023
+- name: Inha University
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    Computer Science and Engineering <br/>
+    B.S.
+  date: 2017 - 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+# TODO: replace the placeholder logos with a KAIST logo
+experience:
+- name: KAIST
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    CS230 System Programming <br/>
+    Head Teaching Assistant
+  date: Spring 2023, 2024
+- name: KAIST
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    CS632 Embedded OS <br/>
+    Head Teaching Assistant
+  date: Fall 2023, 2024
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:  # TODO: add awards if any
+# - name: Award Name
+#   date: Year

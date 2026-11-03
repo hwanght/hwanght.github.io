@@ -31,3 +31,9 @@ gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Default gems removed from the standard library in Ruby 3.4+
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "logger"
