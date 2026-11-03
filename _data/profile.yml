@@ -88,23 +88,31 @@ talks:
   event: "Poster, Korea Computer Congress (KCC)"
   date: 2025
   year: 2025
+- title: "Neural Collapse-Driven Long-Tailed Recognition with a Single-Layer MoE Classifier"
+  event: "Talk, 33rd Auto-ID Labs Asia Workshop (hosted by Fudan University), Zhangjiang National Innovation Center, Shanghai, China"
+  date: Oct. 2025
+  year: 2025
 - title: "Embedded AI Accelerators - GPU, NPU"
   event: "Guest Lecture, CS632 Embedded Operating Systems, KAIST"
   date: Fall 2025
   year: 2025
+- title: "Training Imbalanced Datasets by Partially Updating Neural Network"
+  event: "Talk, Auto-ID Labs Asia Workshop (hosted by Keio University), Keio University Yokohama Campus, Japan"
+  date: 2024
+  year: 2024
 - title: "AI Accelerators - FPGA"
   event: "Guest Lecture, CS632 Embedded Operating Systems, KAIST"
   date: Fall 2024
   year: 2024
-# - title: "Talk title"  # TODO: workshop talks (e.g., Auto-ID Labs Asia Workshop)
-#   event: "Event name"
-#   date: Month Year
-#   year: 2024
+- title: "AiFly: Embedded Real-Time Aircraft Tracking Deep Learning Model"
+  event: "Talk, Auto-ID Labs Asia Workshop (hosted by KAIST), Haeundae, Busan, Korea"
+  date: Nov. 2023
+  year: 2023
 # - title: "Poster title"  # TODO: poster presentations
 #   event: "Poster, Event name"
 #   date: Month Year
 #   year: 2026
 
-# awards:  # TODO: add awards if any
-# - name: Award Name
-#   date: Year
+awards:
+- name: Best Questioner (Certificate of Recognition), 33rd Auto-ID Labs Asia Workshop
+  date: Oct. 2025
