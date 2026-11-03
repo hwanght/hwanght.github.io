@@ -80,10 +80,6 @@ experience:
     CSE2105 Computer-Based Linear Algebra <br/>
     Teaching Assistant
   date: 2022
-- name: IEEE ICASSP 2027
-  logo: /assets/images/empty_300x200.png
-  position: Conference Reviewer
-  date: 2026
 
 # Shown on the Talks page (talks.html), grouped by `year`, newest first
 talks:
