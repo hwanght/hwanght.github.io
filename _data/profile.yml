@@ -1,19 +1,19 @@
 primary_name: "Hyeontaek Hwang"
-secondary_name: "황현택"  # TODO: Korean name to show next to the English name (e.g., 황현택), or leave empty
+secondary_name: "황현택"
 navbar_name: "Hyeontaek Hwang"
 
 positions:
 - name: Ph.D. Student
 - name: School of Computing, KAIST
-  # logo: /assets/images/badges/kaist.png  # TODO: optional affiliation logo
+  # logo: /assets/images/badges/kaist.png  # Logo is optional
 
 
 email: "hwanght@kaist.ac.kr"  # official email (shown on the site)
 personal_email: "hwanght05@gmail.com"  # personal email (optional, shown below `email`)
-# cv_link: link-to-your-cv-file  # TODO: CV PDF path or URL
+# cv_link: link-to-your-cv-file
 gscholar: YGzCNO0AAAAJ
 github: hwanght 
-# twitter: your_twitter_id  # TODO: do not include the '@' symbol
+# twitter: your_twitter_id  # Do not include the '@' symbol
 linkedin: hyeontaek-hwang-90b35226b
 orcid: 0000-0003-0898-5548
 
@@ -35,11 +35,10 @@ short_bio: >-
     <a href="https://www.semanticscholar.org/author/Hyeontaek-Hwang/2037781514" target="_blank">Semantic Scholar</a>
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg  # TODO: replace this template photo with your own
+portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Optional caption.
 
-# TODO: the template requires a logo per entry; replace the placeholder with KAIST / Inha University logos
 education:
 - name: KAIST
   logo: /assets/images/empty_300x200.png
@@ -62,7 +61,6 @@ education:
     B.S.
   date: 2017 - 2021
 
-# TODO: replace the placeholder logos with a KAIST logo
 experience:
 - name: KAIST
   logo: /assets/images/empty_300x200.png
@@ -113,7 +111,7 @@ talks:
   event: "Talk, Auto-ID Labs Asia Workshop (hosted by KAIST), Haeundae, Busan, Korea"
   date: Nov. 2023
   year: 2023
-# - title: "Poster title"  # TODO: poster presentations
+# - title: "Poster title"
 #   event: "Poster, Event name"
 #   date: Month Year
 #   year: 2026

@@ -5,8 +5,6 @@ selected:       false
 pub:            "IEEE Transactions on Instrumentation and Measurement"
 pub_post:       ", vol. 71, pp. 1-11,"
 pub_date:       "2022"
-# abstract: >-
-#   TODO: one or two sentence TL;DR
 authors:
 - Hyeontaek Hwang
 - Sanggil Kang

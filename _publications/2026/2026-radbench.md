@@ -4,8 +4,6 @@ date:           2026-01-01 00:01:00 +0900  # sort key only; exact publication da
 selected:       false
 pub:            "IEEE Intelligent Vehicles Symposium (IV)"
 pub_date:       "2026"
-# abstract: >-
-#   TODO: one or two sentence TL;DR
 authors:
 - Gabriel Manalu
 - An Vo

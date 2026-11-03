@@ -10,6 +10,4 @@ authors:
 - 황현택
 - 패트릭
 - 김대영
-# links:
-#   Paper: TODO
 ---

@@ -4,8 +4,6 @@ date:           2026-10-22 00:01:00 +0900
 selected:       false
 pub:            "arXiv preprint arXiv:2610.30953"
 pub_date:       "2026"
-# abstract: >-
-#   TODO: one or two sentence TL;DR
 authors:
 - Gabriel Manalu
 - Saad Wazir

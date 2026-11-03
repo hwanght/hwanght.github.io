@@ -5,8 +5,6 @@ selected:       true
 pub:            "Conference on Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2026"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-# abstract: >-
-#   TODO: one or two sentence TL;DR
 cover:          /assets/images/covers/clustersplat.png
 authors:
 - Jaesung Lee

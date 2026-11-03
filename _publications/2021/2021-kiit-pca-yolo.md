@@ -11,6 +11,4 @@ authors:
 - 김현석
 - 황현택
 - 강상길
-# links:
-#   Paper: TODO
 ---

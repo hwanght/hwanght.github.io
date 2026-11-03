@@ -5,7 +5,6 @@ selected:       false
 pub:            "한국정보과학회 학술발표논문집 (KCC 2025)"
 pub_post:       ", pp. 907-909,"
 pub_date:       "2025"
-# TODO: Google Scholar lists the second author as 오세연 in this entry and 오세현 in the English duplicate; confirm
 authors:
 - 최민준
 - 오세연
@@ -13,6 +12,4 @@ authors:
 - 정지훈
 - 황현택
 - 김대영
-# links:
-#   Paper: TODO
 ---
