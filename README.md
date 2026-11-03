@@ -4,7 +4,9 @@ Personal academic homepage of Hyeontaek Hwang, Ph.D. student at the School of Co
 
 Site: https://hwanght.github.io
 
-Built with the [academic-homepage](https://github.com/luost26/academic-homepage) Jekyll template.
+## Acknowledgements
+
+This site is built on the [academic-homepage](https://github.com/luost26/academic-homepage) template by [Shitong Luo](https://github.com/luost26). Many thanks for making it openly available.
 
 ## Run locally
 
