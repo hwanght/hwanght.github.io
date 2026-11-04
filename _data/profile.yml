@@ -87,6 +87,10 @@ talks:
   event: "Poster, International Conference on Machine Learning (ICML)"
   date: 2026
   year: 2026
+- title: "Node-Level Gating for Long-Tailed Recognition under Neural Collapse Geometry"
+  event: "Poster, 13th Workshop on Fine-Grained Visual Categorization (FGVC) at CVPR 2026, Denver, CO, USA"
+  date: June 3, 2026
+  year: 2026
 - title: "국방 AI 온디바이스 구현을 위한 AI 가속기 구현 기술"
   event: "Poster, Korea Computer Congress (KCC)"
   date: 2025
