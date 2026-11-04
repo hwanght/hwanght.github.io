@@ -6,7 +6,7 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-{% assign talks_by_year = site.data.profile.talks | sort: "year" | reverse | group_by: "year" %}
+{% assign talks_by_year = site.data.profile.talks | group_by: "year" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">

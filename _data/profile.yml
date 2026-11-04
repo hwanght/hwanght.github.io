@@ -81,23 +81,23 @@ experience:
     Teaching Assistant
   date: 2022
 
-# Shown on the Talks page (talks.html), grouped by `year`, newest first
+# Shown on the Talks page (talks.html), grouped by `year`, in the order listed here (keep newest first)
 talks:
 - title: "Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models"
   event: "Poster, International Conference on Machine Learning (ICML)"
-  date: 2026
+  date: July 8, 2026
   year: 2026
 - title: "Node-Level Gating for Long-Tailed Recognition under Neural Collapse Geometry"
   event: "Poster, 13th Workshop on Fine-Grained Visual Categorization (FGVC) at CVPR 2026, Denver, CO, USA"
   date: June 3, 2026
   year: 2026
-- title: "국방 AI 온디바이스 구현을 위한 AI 가속기 구현 기술"
-  event: "Poster, Korea Computer Congress (KCC)"
-  date: 2025
-  year: 2025
 - title: "Neural Collapse-Driven Long-Tailed Recognition with a Single-Layer MoE Classifier"
   event: "Talk, 33rd Auto-ID Labs Asia Workshop (hosted by Fudan University), Zhangjiang National Innovation Center, Shanghai, China"
   date: Oct. 2025
+  year: 2025
+- title: "국방 AI 온디바이스 구현을 위한 AI 가속기 구현 기술"
+  event: "Poster, Korea Computer Congress (KCC)"
+  date: 2025
   year: 2025
 - title: "Embedded AI Accelerators - GPU, NPU"
   event: "Guest Lecture, CS632 Embedded Operating Systems, KAIST"
