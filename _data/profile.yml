@@ -95,7 +95,7 @@ projects:
   date: 2025
 - title: On-Device AI for Android
   description: Ran deep learning models fully on-device on Android with TensorFlow Lite, ONNX Runtime (custom minimal builds), and PyTorch Mobile, covering audio event and speaker recognition, image restoration, object detection, and video understanding.
-  date: 2022 - 2025
+  date: 2022 - 2024
 - title: Mobile Augmented Reality
   description: Android AR app using OpenCV through JNI that detects a target region in the camera view and overlays video on it, in both server-based and serverless versions.
   date: 2022
