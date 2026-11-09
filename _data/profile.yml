@@ -62,6 +62,10 @@ education:
   date: 2017 - 2021
 
 experience:
+- name: IEEE ICASSP 2027
+  logo: /assets/images/empty_300x200.png
+  position: Conference Reviewer
+  date: 2026
 - name: KAIST
   logo: /assets/images/empty_300x200.png
   position: >-
@@ -80,6 +84,34 @@ experience:
     CSE2105 Computer-Based Linear Algebra <br/>
     Teaching Assistant
   date: 2022
+
+# Shown on the Experience page (experience.html), in the order listed here
+projects:
+- title: Edge AI Deployment on NVIDIA Jetson
+  description: Deployed and optimized deep learning models on NVIDIA Jetson for real-time, camera-based inference at the edge.
+  date: 2025
+- title: Edge NPU Deployment
+  description: Quantized and compiled FP32 detection models for edge NPU accelerators, and built end-to-end inference pipelines with throughput (FPS) benchmarking.
+  date: 2025
+- title: On-Device AI for Android
+  description: Ran deep learning models fully on-device on Android with TensorFlow Lite, ONNX Runtime (custom minimal builds), and PyTorch Mobile, covering audio event and speaker recognition, image restoration, object detection, and video understanding.
+  date: 2022 - 2025
+- title: Mobile Augmented Reality
+  description: Android AR app using OpenCV through JNI that detects a target region in the camera view and overlays video on it, in both server-based and serverless versions.
+  date: 2022
+- title: ML Serving and Backend
+  description: CNN inference microservice and graph database REST API on Kubeflow (PyTorch, Flask, Neo4j), and a gRPC video streaming server.
+  date: 2022
+
+skills:
+- category: Languages
+  items: Python, C/C++, Kotlin, Java
+- category: ML Frameworks
+  items: PyTorch, TensorFlow Lite, ONNX Runtime, PyTorch Mobile
+- category: Edge Deployment
+  items: NVIDIA Jetson, edge NPUs, model quantization, GStreamer, Android NDK/JNI, OpenCV
+- category: Serving and Infrastructure
+  items: Kubeflow, Flask, gRPC, Neo4j, Slurm
 
 # Shown on the Talks page (talks.html), grouped by `year`, in the order listed here (keep newest first)
 talks:

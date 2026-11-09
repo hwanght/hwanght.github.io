@@ -1,0 +1,45 @@
+---
+layout: default
+title : Experience
+navbar_title: Experience
+---
+
+<div class="row">
+    <div class="col-12 col-lg-10">
+        <h2 class="pt-4">Experience</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in site.data.profile.experience %}
+            <div class="p-3 {% unless forloop.last %}border-bottom{% endunless %} border-gray">
+                <div class="d-flex">
+                    <h5 class="mt-0 mb-1 font-weight-normal">{{ item.name }}</h5>
+                    <div class="ml-auto no-break small"><em>{{ item.date }}</em></div>
+                </div>
+                <p class="mt-0 mb-0 small">{{ item.position }}</p>
+            </div>
+            {% endfor %}
+        </div>
+
+        <h2 class="pt-4">Projects</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in site.data.profile.projects %}
+            <div class="p-3 {% unless forloop.last %}border-bottom{% endunless %} border-gray">
+                <div class="d-flex">
+                    <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
+                    <div class="ml-auto no-break small"><em>{{ item.date }}</em></div>
+                </div>
+                <p class="mt-0 mb-0 small">{{ item.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+
+        <h2 class="pt-4">Skills</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in site.data.profile.skills %}
+            <div class="p-3 {% unless forloop.last %}border-bottom{% endunless %} border-gray">
+                <h6 class="mt-0 mb-1">{{ item.category }}</h6>
+                <p class="mt-0 mb-0 small">{{ item.items }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

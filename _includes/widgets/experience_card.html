@@ -26,7 +26,7 @@
                     </div>
                     {% endif %}
 
-                    {% if site.data.profile.experience %}
+                    {% if site.data.profile.experience and include.hide_experience != true %}
                     <div class="col-lg-6">
                         <div class="mx-2 my-1">
                             <h6>Experience</h6>
