@@ -1,0 +1,32 @@
+name: Fetch new publications
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # every Monday 09:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/fetch_publications.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: auto/new-publications
+          commit-message: Add new publications from Semantic Scholar
+          title: New publications found on Semantic Scholar
+          body: |
+            Draft entries generated from Semantic Scholar. Before merging, check:
+            - venue (accepted conference vs. arXiv preprint) and `date`
+            - author name spelling
+            - `selected`, `cover`, badges
+            To skip a paper permanently, add its paperId (printed in the workflow log) to `.github/publications-ignore.txt`.
+          add-paths: _publications/**
